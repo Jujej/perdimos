@@ -1,0 +1,3 @@
+- Batalha entre os animais por meio de rodadas, igual jugar trunfo, escolhe um atributo, cada um joga uma carta o que tiver mais do atributo escolhido ganha
+- Estou tentando adiantar a criação de animais, fiquei um pouco de em dúvida em relação a classe mãe, já que todas as cartas possuem os mesmos atributos... Enfim, vou deixar somente a classe mãe e vc vê se fica melhor
+- Não entendi muito bem como funciona o relacionamento com o arquivo txt, então vou acabar deixando pra vc também ver isso, mas vou salvar um que o chat fez aqui pra ver se da uma luz também

@@ -1,0 +1,5 @@
+especie,forca,velocidade,inteligencia
+Cachorro,50,60,40
+Gato,30,50,60
+Girafa,40,70,50
+Crocodilo,80,40,30
